@@ -1,0 +1,16 @@
+body{
+    background-image: url(graminha.jpg);
+padding: 10%;
+margin: 0 auto;
+max-width: 900px;
+
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: yellowgreen
+}
+
+}
